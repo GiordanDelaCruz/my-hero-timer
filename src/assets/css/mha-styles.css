@@ -1,0 +1,58 @@
+/* Backgrounds colors */
+.bg-deku-green-1 {
+    background-color: #37534F;
+}
+.bg-deku-black-1 {
+    background-color: #141316;
+}
+.bg-deku-red-1 {
+    background-color: #5B2424;
+}
+.bg-deku-yellow-1 {
+    background-color: #C6A860;
+}
+
+/* Text colors */
+.text-deku-green-1 {
+    color: #37534F;
+}
+.text-deku-black-1 {
+    color: #141316;
+}
+.text-deku-red-1 {
+    color: #5B2424;
+}
+.text-deku-yellow-1 {
+    color: #C6A860;
+}
+
+/* Text shadows */
+.text-shadow-white-1{
+    text-shadow: -1px -1px 0 #eeeeee, 1px -1px 0 #eeeeee, -1px 1px 0 #eeeeee, 1px 1px 0 #eeeeee;
+}
+
+.text-shadow-black-1{
+    text-shadow: -1px -1px 0 #000000, 1px -1px 0 #000000, -1px 1px 0 #000000, 1px 1px 0 #000000;
+}
+
+
+/* Font */
+.rowdies-light {
+    font-family: "Rowdies", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.rowdies-regular {
+    font-family: "Rowdies", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.rowdies-bold {
+    font-family: "Rowdies", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+
